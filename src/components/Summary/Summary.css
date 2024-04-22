@@ -1,0 +1,71 @@
+.progress-bar-overall{
+    margin:10px;
+    height:20px;
+}
+
+.progress-bar-application {
+    background-color: #c6e2ec !important; 
+    color:black;
+    font-weight: bold;
+}
+
+.progress-bar-oa {
+    background-color: #8cc4d9 ; 
+    color:black;
+    font-weight: bold;
+}
+
+.progress-bar-interview {
+    background-color: #409dbf ;
+    color:black;
+    font-weight: bold;
+}
+
+.progress-bar-final {
+    background-color: #337e99;
+    color:black;
+    font-weight: bold;
+}
+
+.progress-bar-offer {
+    background-color: #1b7e65;
+    color:black;
+    font-weight: bold;
+}
+
+.progress-bar-rejected {
+    background-color: #798682;
+    color:black;
+    font-weight: bold;
+}
+
+.legend {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.legend .dot {
+    height: 12px;
+    width: 12px;
+    border-radius: 30%;
+    display: inline-block;
+    margin-right: 3px;
+}
+
+.dot.offer { background-color: #1b7e65; }
+.dot.application { background-color: #c6e2ec; }
+.dot.oa { background-color: #8cc4d9; }
+.dot.interview { background-color: #409dbf; }
+.dot.final { background-color: #337e99; }
+.dot.rejected { background-color: #798682; }
+
+
+.accordion-header {
+    color: #000000;
+    font-weight: bold;
+}
+
+.accordion{
+    margin: 10px;
+}

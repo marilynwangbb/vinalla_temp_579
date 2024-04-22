@@ -1,0 +1,13 @@
+.divider {
+    width: auto;
+    overflow: hidden;
+    position: relative;
+
+}
+
+.divider img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+
+}

@@ -1,0 +1,13 @@
+.new-note-button {
+    margin-bottom: 20px;
+}
+
+
+.list-group-container {
+    gap: 10px;
+    margin: 20px;
+}
+
+.keywords {
+    font-weight: bold;
+}

@@ -1,0 +1,15 @@
+.status-tag {
+    display: inline-block;
+    width: 5cm;
+    height: 1cm;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    margin:10px;
+    padding:10px;
+    text-align: center;
+    cursor: pointer;
+    color: black;
+    font-weight:700;
+    line-height: 10px;
+    font-size: 14px;
+}

@@ -1,0 +1,19 @@
+.offcanvas{
+    background-color: #545454; 
+}
+
+
+
+.offcanvas-header {
+    color: #FFFFFF;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* If you need to specifically style the body separately */
+.offcanvas-body {
+    color: #FFFFFF;
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
